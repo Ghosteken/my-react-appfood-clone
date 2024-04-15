@@ -1,0 +1,37 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    width: 100%;
+    padding: 0 6.5%;
+    margin: 0 auto;
+    border-bottom: 1px solid #e8e8e8;
+}
+.brandLogo {
+    width: 145px;
+    height: 30px;
+    margin-top: 26px;
+    border-top: 1px solid #fff;
+    
+}
+.signBtns {
+    margin-top: 20px;
+    display: flex;
+}
+ .button {
+    font-size: 1.7rem;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 600;
+    width: 118px;
+    height: 48px;
+    border: none;
+    border-radius: 40px;
+    cursor: pointer;
+    text-transform: capitalize; 
+}
+.signIn {
+    color: #000 !important;
+
+}
+
+
