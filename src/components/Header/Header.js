@@ -1,9 +1,9 @@
 import styles from "./Header.module.css";
-import logo from "../../assets/images/heyfoodlogo2.png";
+import logo from "../../Assets/images/heyfoodlogo2.png";
 import { Button } from "@mui/material";
 import { ThemeProvider } from "@emotion/react";
-import theme from "../../assets/Themes/Theme";
-import buttonStyles from "../../assets/ButtonStyle/ButtonStyle";
+import theme from "../../Assets/themes/Theme";
+import buttonStyles from "../../Assets/ButtonStyle/ButtonStyle";
 
 const Header = () => {
   return (

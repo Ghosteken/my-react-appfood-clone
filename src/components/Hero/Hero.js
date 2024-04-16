@@ -1,9 +1,9 @@
 import styles from "./Hero.module.css";
 import { Button } from "@mui/material";
 import { ThemeProvider } from "@emotion/react";
-import buttonStyles from "../../assets/ButtonStyle/ButtonStyle";
-import theme from "../../assets/Themes/Theme";
-import hero from "../../assets/images/heyfoods-hero-side2.svg";
+import buttonStyles from  "../../Assets/ButtonStyle/ButtonStyle";
+import theme from "../../Assets/themes/Theme";
+import hero from "../../Assets/images/heyfoods-hero-side2.svg";
 
 const Hero = () => {
   return (
